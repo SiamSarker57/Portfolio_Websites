@@ -1,0 +1,22 @@
+.cv-section {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 8px;
+}
+
+.cv-download {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #007acc;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+  margin: 15px 0;
+}
+
+.cv-download:hover {
+  background: #005fa3;
+}
